@@ -1,2 +1,2 @@
 # TickTackToe
-The game of tick tack toe in java
+The game of tick tack toe in JavaFX
